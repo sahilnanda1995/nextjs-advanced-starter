@@ -18,4 +18,4 @@ module.exports = {
     "^.+\\.module\\.(css|sass|scss)$": "identity-obj-proxy",
     "@(components.*)$": "<rootDir>/src/$1",
   },
-}
+};
